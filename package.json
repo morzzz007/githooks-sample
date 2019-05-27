@@ -1,0 +1,20 @@
+{
+  "name": "githook-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node processes/web"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": "11.10.1"
+  },
+  "devDependencies": {
+    "eslint-config-emarsys": "5.1.0",
+    "eslint-plugin-mocha": "5.3.0",
+    "eslint-plugin-no-only-tests": "2.3.0",
+    "eslint-plugin-security": "1.4.0"
+  }
+}
